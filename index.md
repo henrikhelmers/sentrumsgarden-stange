@@ -1,12 +1,11 @@
 ---
+title: Sameiet Sentrumsgården Stange
+layout: default
 ---
 
-Welcome to My Home Page
+# [Vedtekter](/vedtekter)
+# [Ordensregler](/ordensregler)
 
+## Arbeidslogg styreleder
+- **7. april 2024**<br>Tilgjengeliggjorde vedtekter på nett
 - **5. april 2024**<br>Skrev til Sirkula om pose i matavfalls-Molok som hadde falt ned
-- **x nnnn**<br>test
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-Original date - {{ date }}
-
-[Vedtekter](/vedtekter)

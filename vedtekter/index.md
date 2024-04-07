@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Vedtekter
 ---
 
 <style type="text/css">
