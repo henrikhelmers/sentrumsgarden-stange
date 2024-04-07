@@ -3,8 +3,10 @@ title: Sameiet Sentrumsgården Stange
 layout: default
 ---
 
-# [Vedtekter](/vedtekter)
-# [Ordensregler](/ordensregler)
+# [Vedtekter]({{ site.baseurl }}/vedtekter)
+# [Ordensregler]({{ site.baseurl }}/ordensregler)
+
+
 
 ## Arbeidslogg styreleder
 - **7. april 2024**<br>Tilgjengeliggjorde vedtekter på nett
